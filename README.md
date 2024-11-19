@@ -1,2 +1,2 @@
 # Fake_news_detection_project
-This project focuses on detecting fake news using machine learning and natural language processing. It preprocesses text data, extracts features using TF-IDF, and trains multiple classification algorithms to identify fake or real news articles. 
+A machine learning project for detecting fake news using TF-IDF and classification models like Logistic Regression and Random Forest, featuring an interactive Streamlit app for real-time predictions 
